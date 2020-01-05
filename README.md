@@ -1,11 +1,14 @@
 # Boilerplate create modules with ts
+
 Boilerplate for creacting npm modules with TypeScript.
 
 # Usage
+
 1. Rename `boilerplate-create-modules-with-ts`.
 2. Run `npx shipjs setup`
 
 # Features
+
 - asdf
 - TypeScript
 - ESLint

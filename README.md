@@ -21,5 +21,4 @@ Boilerplate for creacting npm modules with TypeScript.
   - .projections.json
 - Jest
 - GitHub Actions
-  - Lint
   - Unit test
